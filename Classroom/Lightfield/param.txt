@@ -1,0 +1,5 @@
+cmera: renderCam
+num_x: 5
+num_y: 5
+base_x: 0.009999999776482582
+base_y: 0.009999999776482582
